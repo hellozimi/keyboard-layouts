@@ -9,19 +9,19 @@ PCB: kbdfans/kbd67/mkii_soldered
 
 ### Changelog
 
-2022-01-28
+#### 2022-01-28
 
-- Flashed pcb with via support.
+Flashed pcb with via support.
 
 Fn+1: Turns on layer 0  
 Fn+2: Turns on layer 2
 
-2022-02-21
+#### 2022-02-21
 
 ~~Fn+1: Turns on layer 0~~  
 Fn+[: Turns on layer 0  
 ~~Fn+2: Turns on layer 2~~  
-Fn+]: Turns on layer 0  
+Fn+]: Turns on layer 2
 
 Fn+(1 to =): is now F1 to F12
 
